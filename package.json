@@ -2,6 +2,7 @@
   "name": "zconv",
   "version": "1.0.0",
   "private": true,
+  "description":"A preddy lil' Vue.js app to convert between numbers of different bases.",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
