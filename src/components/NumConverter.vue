@@ -78,12 +78,13 @@ export default {
     // (This component and the data it holds.)
     // Most important to insult the user, though.
     convertNum(){
+        const insult = 'R.O.F.L.'
         if (this.mode === 'bin'){
             if (zeppo.isBin(this.start) === true){
                 this.result = zeppo.binToDec(this.start);
             }
             else {
-                this.result = 'You fucking moron rofl.'
+                this.result = insult;
             }
         }
         else {
@@ -91,7 +92,7 @@ export default {
                 this.result = zeppo.decToBin(this.start);
             }
             else {
-                this.result = 'You fucking moron rofl.'
+                this.result = insult;
             }
         }
     }
