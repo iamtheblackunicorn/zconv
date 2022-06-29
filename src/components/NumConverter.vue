@@ -11,7 +11,7 @@ that will appear on our page.
 <template>
 
  <!--Getting user input and storing it in "start".-->
- <input v-model="start" placeholder="Expression"/>
+ <input v-model="start" placeholder=""/>
 
  <!--Button to trigger the "convertNum" function.-->
  <button @click="convertNum">Compute</button>

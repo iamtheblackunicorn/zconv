@@ -54,6 +54,7 @@ $stdBorderRadius: 25px;
 $divGradientOne: #EA1573;
 $divGradientTwo: #FF7BAC;
 $contentColor: #FFFFFF;
+$stdBorderRadius: 25px;
 
 /* DESKTOP SECTION START */
 html, body {
@@ -79,6 +80,7 @@ h1 {
     color: $divGradientTwo;
 }
 div.content {
+    width: 85%;
     margin: 0 auto;
     padding: $stdPadding;
     border-radius: $stdBorderRadius;
@@ -100,8 +102,10 @@ p {
     margin-left: 0px;
     margin-top: 0px;
     margin-bottom: 10px;
+    font-family: $stdFont;
 }
 button {
+    font-family: $stdFont;
     width: 100%;
     padding: $stdPadding;
     text-align: center;
@@ -114,6 +118,26 @@ button {
     margin-bottom: 10px;
     background-color: transparent;
     border: 4px solid $contentColor;
+    border-radius: $stdBorderRadius;
+}
+input {
+    font-family: $stdFont;
+    width: 97%;
+    padding: $stdPadding;
+    text-align: center;
+    color: $contentColor;
+    font-size: 35px;
+    padding: 10px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: transparent;
+    border: 4px solid $contentColor;
+    border-radius: $stdBorderRadius;
+}
+input:focus{
+    outline: none;
 }
 /* DESKTOP SECTION END */
 
@@ -132,6 +156,13 @@ button {
     } 
     button {
         font-size: 20px;
+    }
+    input {
+        width: 94%;
+        font-size: 20px;
+        padding: 10px;
+        margin-top: 10px;
+        margin-bottom: 10px;
     }
 }
 /* RESPONSIVE SECTION END */
