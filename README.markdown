@@ -14,7 +14,7 @@ The deployed project can be viewed [here](https://gilded-sunflower-5a4e37.netlif
 
 ## USAGE :hammer:
 
-***ZConv*** makes your life very easy. It provides you with two conversion modes, one for converting from base 10 numbers to base 2 numbers and one from converting from base 2 numbers to base 10 numbers. The first is called `dec` and the second is called `bin`. To switch between modes, simply press the `Switch mode` button. To convert from one base to the other, type your number into the input field and press `Convert`. That's it. But! If you type something wrong, you might get a nasty surprise. :wink:
+***ZConv*** makes your life very easy. It provides you with two conversion modes, one for converting from base 10 numbers to base 2 numbers and one from converting from base 2 numbers to base 10 numbers. The first is called `dec` and the second is called `bin`. To switch between modes, simply press the `Switch Mode` button. To convert from one base to the other, type your number into the input field and press `Compute`. That's it. But! If you type something wrong, you might get a nasty surprise. :wink:
 
 ## SET IT UP :inbox_tray:
 
