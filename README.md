@@ -1,24 +1,7 @@
-# zconv
+# ZCONV :ribbon: :rocket: :heart_on_fire: :unicorn:
 
-## Project setup
-```
-npm install
-```
+***A preddy lil' Vue.js app to convert between numbers of different bases.*** :ribbon: :rocket: :heart_on_fire: :unicorn:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## ABOUT :books:
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+***Still W.I.P.***
