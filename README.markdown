@@ -4,4 +4,4 @@
 
 ## ABOUT :books:
 
-***Still W.I.P.***
+***Still W.I.P. but the deployed project hosted on Netlfiy can be viewed [here](https://gilded-sunflower-5a4e37.netlify.app/).***
