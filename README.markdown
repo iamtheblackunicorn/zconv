@@ -8,9 +8,9 @@
 
 A while back I wrote a library that provides functions to convert between numbers of base 2 and base 10. This library is live on NPM and can be viewed [here](https://www.npmjs.com/package/zeppo). I decided to make a shiny frontend. The library was called ***Zeppo***, after the third Marx brother. This shiny frontend using the library is therefore called ***Z***eppo ***Conv***ert. Enjoy. :heart_on_fire:
 
-## DEPLOYED PROJECT ON NETLIFY :rocket:
+## DEPLOYED PROJECT ON GITHUB PAGES :rocket:
 
-The deployed project can be viewed [here](https://gilded-sunflower-5a4e37.netlify.app/).
+The deployed project can be viewed [here](https://blckunicorn.art/zconv).
 
 ## USAGE :hammer:
 

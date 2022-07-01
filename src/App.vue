@@ -17,6 +17,8 @@ and adding some flowery stuff.
   <NumConverter/>
  </div>
 
+ <FooterCog/>
+
 </template>
 
 <!--
@@ -24,13 +26,15 @@ Importing our component with Vue's help.
 -->
 <script>
 // Importing the main component.
+import FooterCog from './components/FooterCog.vue';
 import NumConverter from './components/NumConverter.vue';
 
 // Registering the main component.
 export default {
   name: 'App',
   components: {
-    NumConverter
+    NumConverter,
+    FooterCog
   }
 }
 </script>
