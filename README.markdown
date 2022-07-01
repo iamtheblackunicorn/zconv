@@ -61,7 +61,7 @@ $ npm run build
 
 - Initial release.
 - Upload to GitHub.
-- Deployment on Netlify.
+- Deployment on GitHub Pages.
 
 ## NOTE :scroll:
 
